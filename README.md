@@ -1,4 +1,5 @@
 # EchoSense
+Owners: Pormise Adekusibe, Victor Olatunji, Grace Audu
 
 **Real-time ASL interpreter. No hardware. No install. Just a camera and a browser.**
 
